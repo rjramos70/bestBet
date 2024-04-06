@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: bestbet
+  messages:
+    basename: "Hello from prod profile"
